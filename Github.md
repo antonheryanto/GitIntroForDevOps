@@ -59,3 +59,10 @@ marp: true
 * Code Review with comment, suggestion and Approval
 * Integrate with CI with github workflow setup
 * Squash and Merge to close the issue
+
+---
+
+# Advance Workflow
+* Forking or initiate pull-request
+* This require for non commit access repository
+* Or for community contribution

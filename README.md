@@ -41,3 +41,17 @@ marp: true
 * Very Popular, Many Online Service Github, Gitlab, Bitbucket, Azure DevOps
 * Integrated with popular Editor (VSCode) and IDE (Visual Studio, JetBrains, NetBeans, Eclipse)
 * Adapt to Multiple Workflow.
+
+--- 
+# Git for multiple workflow
+## Developer
+* Feature Branch workflow
+* Distributed Development
+* Pull Request
+* Community
+* Faster Release Cycle
+## Others
+* Manage market specific release.
+* Prototype with potential customer.
+* Frequent release
+* Maintain Old Version, Production, New Development, Specific Customer Version.

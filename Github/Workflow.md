@@ -2,4 +2,4 @@
 * Create issue
 * Define milestone
 * Initiate Pull request
-* Merge to close issue
+* Squash and Merge to close issue
